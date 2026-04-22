@@ -18,7 +18,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="50px">
 
 ## My Trophies 🤔
-<div align="center"><img src="https://github-profile-trophy-kannan.vercel.app/?username=francescoscarselli&theme=juicyfresh&no-bg=true&title=Stars,Commits,Repositories,Issues,PullRequest,Followers,MultiLanguage,Experience"></div> 
+<div align="center"><img src="https://trophy.ryglcloud.net/?username=francescoscarselli&theme=juicyfresh&no-bg=true&title=Stars,Commits,Repositories,Issues,PullRequest,Followers,MultiLanguage,Experience"></div> 
 
 <!-- 
   Nope, DO NOT copy this.
