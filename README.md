@@ -14,8 +14,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" width="60px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="50px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" width="60px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="60px">
 
 ## My Trophies 🤔
 <div align="center"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=francescoscarselli&theme=juicyfresh&no-bg=true&title=Stars,Commits,Repositories,Issues,PullRequest,Followers,MultiLanguage,Experience"></div> 
